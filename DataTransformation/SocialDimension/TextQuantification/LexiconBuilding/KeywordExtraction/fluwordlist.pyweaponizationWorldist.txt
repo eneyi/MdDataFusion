@@ -1,0 +1,25 @@
+from os import listdir
+from utilities import clean, word_freq, PMI
+
+print("Setting data directories")
+datadir = "../DataExtraction/db/FluDescriptions/"
+files = listdir(datadir)
+
+descriptions = []
+print("Reading in flu descriptions ...")
+for i in files:
+    with open(datadir+i, "r+", encoding="latin-1") as ff:
+        descriptions.append(ff.read())
+    ff.close()
+descriptions=[i.strip() for i in descriptions]
+
+
+print("Creating Wordlist")
+wordlist = [i[0] for i in word_freq(clean(" ".join(descriptions)))]
+
+
+#write out data
+print("Writing out wordlist ...")
+with open("../lexicons/fluwordlist.txt","w+") as ff:
+    for i in list(set(wordlist)):
+        ff.write("%s\n" % i)
