@@ -1,0 +1,3 @@
+Brno Airport Web Site hacked and Data leaked by @anon_4freedom
+2012/01/28
+SEPO aka @anon_4freedom has been on a mission the past few weeks and now has hacked and dumped a load of data from an airport website. the airport is BRNO Airport and the data contains database information and 100 or so administration accounts, stats: https://elerts.cyberwarnews.net/dumps.php?dump=255 leak: https://virtualsepo.blogspot.com/2012/01/brno-airport-web-site-hacked-by-sepo.html

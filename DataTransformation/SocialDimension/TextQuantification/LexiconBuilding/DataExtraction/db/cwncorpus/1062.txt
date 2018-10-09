@@ -1,0 +1,3 @@
+NineWinds FTP Server hacked by @psykonx of NetBashers
+2012/01/27
+content/images/gallery/random3/leaked-ftp-by-net-bashers-team-pastebin-com_.png Netbashers are surely making this come back worth it, now leaking heaps of FTP accounts from a bollywood based website NineWinds.in. The accounts are fairly interesting to say the least, with  universal music's account details being leaked as well as many other big name movies. The leak contains everything in clear text and links to FTP accounts and has been carried out by @psykonx of Netbashers. From this we can be sure to see many more attacks from Netbashers over the coming weeks. https://pastebin.com/FJNMe4mp

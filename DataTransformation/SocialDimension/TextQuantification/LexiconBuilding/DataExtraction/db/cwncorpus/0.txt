@@ -1,0 +1,20 @@
+Another day and Another Bulk Breach Dump Totaling over 3.4 Billion Credentials.
+2018/02/28
+Reshared, Recycled, Swapped and Sold breach data is being a common thing and well once again someone has complied a bunch of public and not so public combo lists from well known previous breaches that when combined have a total of 3,443,684,697 Emails with 2,914,838,915 of them being unique leaving only about 333K duplicate entries.The leak has originated from raidforums and was posted at First in the services section for general stuff by tutweb on the 20th of feb 2018 where they was asking at $70USD.19th Feb 2018
+First thread posted with links to a 8.77GB leak which contains ver 3000 databases, recently troy hunt had processed this data and done a nice article about it here.20th Feb 2018
+Posted for sale thread asking $70USD for the 154GB leak with links to a selly.gg shop that also contains various other for sale combo lists.22nd Feb 2018
+Posted another thread with links to the full 154GB leak which was hosted on fex.net.Before even starting to download it, it was very clear that the data was a mix of old data but what was not clear was if there was any new or unseen data in this leak. After spending many hours ( no joke over 30hours because fex.net just has awesome speeds. ) downloading this data i set about figuring out how many total of emails/combo lists are in it, where the data has come from and what it is exactly.The description of the post from the 20th had probably the most clear explanation of what and where this data came from.Shops -- 44 files -869.9 MB
+Social networks - 2 files 85.1 MB
+User:pass 11 files 452.8 MB
+Country - 295 files - 1.82GB
+Other - 2,7GB/ email for spam Dorks .....
+Base - 35 files 3.26gb Privat Publick email;pass
+Dump hash - 2490 files 3.86GB
+Base with email access - 45 files - 1.21GB
+Dumps Dehash/ all database email:pass - 3019 files - 8.77GB (games shop btc sites)
+Game - 29 files 2.5GB
+antipubluck personal - 305 files - 115.1GB - first Very big email pass database.
+Russian - 36 files 1.64gb (mail.ru yandex.ru rambler.ru)
+Money - very good database for brute money service. ebay amazon and other - 22 files 2.58 GB
+BTC - database for brute BTC service - 18 files - 1.18GB
+USA - usa database - 31 files 7.47GBFor the most part, the format of the leaked contents is all .txt files with lists of email:pass with the exception of files in the logs folder which contains 949 compressed files over 5 folders which are sorted into dates from early 2018 of a credentials stealer named Project Evrial which is being sold recently in clearnet market places for $40USD.Each file in this directory contains a desktop.jpg, passwords.log and cookies folder with the passwords.log file being a log of the users login attempts that have been captured.The other folder that is not included into the total count provided above is the Miscellaneous Folder which contains another huge load of leaks it self with 2.81GB and 338 files which includes compressed files as well. I left this out of the calculation until further notice as the contents here are a bit scattered in content. The contents in the Miscellaneous folder includes a trove of lists of links to different types of websites, raw dumps from older breaches in 2015/2016 with full sets of information including usernames, phone numbers and dobs for some of them; it also contains various tutorials and search dorks.Troy Hunt from Have I Been Pwned has recently parsed and documented the 8.77GB leak posted on the 19th as well as adding another 80M entries from over 2800 new breaches to the HIBP database.At time of publishing tutweb had not replied to my contact requests and all files are still accessible online.

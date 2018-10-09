@@ -1,0 +1,3 @@
+Federal Reserve Vulnerable to hackers
+2012/02/15
+A hacker going by the handle D35m0nd142 has posted information about the federalreserve.com website that shows its vuln to attackers. Now its a worry that such websites are hackable with such minor hacks and shows that the governments are clearly not thinking about security the way they should be. https://pastebin.com/QM9kLnPB

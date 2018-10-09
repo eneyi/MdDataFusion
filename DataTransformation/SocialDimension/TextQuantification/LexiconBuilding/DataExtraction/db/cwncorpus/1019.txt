@@ -1,0 +1,3 @@
+Constitutional Court of Chile hacked and accounts leaked by SECTOR404cl
+2012/02/14
+content/images/gallery/random3/hacked-tribunal-constitucional-sector404cl-pastebin-com_.png SECTOR404cl has also added the Constitutional court of chile to there list of attacks today. the website  tribunalconstitucional.cl belongs to the chile government and this attack has been label part of #opchilerenace. The dump which contains 5 administration accounts with encrypted passwords and emails. https://pastebin.com/WUvMP7Vv

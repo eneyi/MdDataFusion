@@ -1,0 +1,3 @@
+Washington State Government Breached, Administrator Accounts Dumped Online
+2016/11/12
+Earlier today a hacker using the handle @CyberZeist announced a breach on the Washington state government website.Today's breach was announced on twitter and posted to pastebin, and it contained 59 administrator accounts with user email addresses, encrypted passwords and salts.This breach appears to effect 8 different departments government.Departments affected.Over the past few weeks @CyberZeist has been breaching and leaking data from various government services with the last one being the Alaskan Elections Results website.At time of publishing the paste was still active.

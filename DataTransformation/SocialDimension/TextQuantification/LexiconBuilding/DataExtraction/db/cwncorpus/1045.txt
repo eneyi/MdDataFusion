@@ -1,0 +1,3 @@
+macforbeginners.com hacked and data leaked by xdev @ b4lc4nh4ck
+2012/02/09
+xdev has left a mac tutorial based website ashamed today after hacking it and dumping a load of accounts on paste.bin. The target, macforbeginners.com is a privately owned website that offers help for people starting out with macs, but really they should be looking for help themselves  to better protect there clients information. The leak contains username, emails and passwords and our scans turn up a  total of 714 accounts. sadly all the passwords are in clear text which just makes us angry but  what can u do.

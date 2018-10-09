@@ -1,0 +1,3 @@
+bsnl.co.in taken offline again by BBHH, Bangladesh black hat hackers.
+2012/02/17
+content/images/gallery/random3/oops-google-chrome-could-not-connect-to-www-bsnl_-co_-in_.png In the last couple of months BSNL( Bharat Sanchar Nigam Ltd ), india's largest telcom Services Provdier to public and business clients has become victim to many attacks which have proven that the company's website security standards need revising asap. Just shy of exactly one month since the last attack it has been taken offline again this time by BBHH, Bangladesh black hat hackers. When checking the site its returning unconnectable, which may suggest they are finally taking time out to fix the exploits that have been taken advantage of time and time again,if not i hhope they do.

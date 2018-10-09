@@ -1,0 +1,3 @@
+WikiSpaces hacked and data leaked by @psykonx of Netbashers
+2012/01/27
+content/images/gallery/random3/leaked-wikispaces-by-net-bashers-team-pastebin-com_.png Well know wiki site provider wikispaces has been hacked and had a dump fo accounts leaked online by Netbashers. Netbashers have been making a load come today with already 2 big leaks, one that included a bollywood site and now this. Wikispaces has been one of the "major" wiki hosting website providers for some time now so its fairly surprising to see this happen to them as one would think they would be on top of security. The leak contains usernames, emails and passwords which are in clear text. https://pastebin.com/FJNMe4mp stats: https://elerts.cyberwarnews.net/dumps.php?dump=232

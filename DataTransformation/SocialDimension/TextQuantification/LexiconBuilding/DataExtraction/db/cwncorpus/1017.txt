@@ -1,0 +1,3 @@
+turkish information technologies and communications authority hacked and lots of data leaked
+2012/02/14
+Recently the Turkish government has come under attack by anonymous hackers who have started Operation digiturk  @ODigiturk The attacks have so far left few leaks but the most recent one which is from the Turkish ITCA is set to be fairly big with lots of clients details and information now being published in many places. The leak which comes in a fair few different parts consists of user accounts, admin accounts, main client listings and other information which is in the form of raw sql dumps. pastebin.com/JPximj3d pastebin.com/gubPJBFR pastebin.com/1vAD4bqN pastebin.com/wgzP0CN2

@@ -1,0 +1,3 @@
+4,940 Accounts leaked from media.devilscafe.in
+2012/02/08
+A cyber security news web blog has been hacked and had a huge amount of accounts leaked online by an unknown hacker. The attack which targeted media.devilscafe.in  and the leaked data contains users names, emails and encrypted passwords.

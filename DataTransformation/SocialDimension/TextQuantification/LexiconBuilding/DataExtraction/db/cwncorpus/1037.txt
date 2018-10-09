@@ -1,0 +1,3 @@
+Nigeria National Assembly Hacked by Anonymous #OpNigeria
+2012/02/10
+content/images/gallery/opnigeria/twitter-occupyallst-nigerian-national-assembly.png The twitter account @OccupyAllSt has announced the hack on twitter which has been dumped on pastebin. The hack has resulted in some minor data being leaked from the server. The attack which has been labelled part of OpNigeria shows that this operation is far from finished. The server which was attacked is https://www.nassnig.org/ which is the site for the Nigeria National Assembly. The leaked data contains minor database information and user accounts which consist of usernames and encrypted passwords. https://pastebin.com/hfKbFTuh
